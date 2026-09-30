@@ -11,6 +11,10 @@ color: white;
   color: orange;
  }
 
+ h4{
+  color: rgb(0, 60, 60);
+ }
+
  .img1 {
     width: 100%;
 }
