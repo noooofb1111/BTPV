@@ -29,3 +29,9 @@ text-align: center;
     width: 80%;
   text-align: center;
 }
+{
+.lista
+text-align: center;
+font-style: italic;
+text-decoration: overline;
+}
