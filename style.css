@@ -17,8 +17,10 @@ color: white;
 
  .img1 {
     width: 100%;
+   text-align: center;
 }
 
 .img2 {
     width: 80%;
+  text-align: center;
 }
