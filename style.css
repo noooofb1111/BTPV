@@ -1,18 +1,23 @@
   body{
     background-color: gray;
+    text-align: center;
 }
   h1{
 color: white;
+    text-align: center;
 }
  h2{
 color: white;
-}
+text-align: center;
+ }
  h3 {
   color: orange;
+ text-align: center;
  }
 
  h4{
   color: rgb(0, 60, 60);
+   text-align: center;
  }
 
  .img1 {
