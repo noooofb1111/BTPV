@@ -38,10 +38,27 @@ text-align: center;
     width: 80%;
   text-align: center;
 }
+
 {
 .ul
 text-align: left;
 font-style: italic;
 text-decoration: overline;
 font-size: 50px;
+}
+
+.semana {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.conteudo-semana {
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 30px;
 }
