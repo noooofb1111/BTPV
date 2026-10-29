@@ -1,5 +1,5 @@
   body{
-    background-color: gray;
+    background-color: Black;
     text-align: center;
 }
   p{
@@ -48,7 +48,7 @@ font-size: 50px;
 }
 
 .semana {
-    background-color: black;
+    background-color: gray;
     color: white;
     padding: 15px;
     border-radius: 10px;
@@ -65,7 +65,7 @@ font-size: 50px;
 
 .semana {
     background-color: lightgray;
-    border: 2px solid black;
+    border: 1px solid black;
     border-radius: 10px;
     margin: 15px 0;
     padding: 15px;
